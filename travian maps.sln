@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "travian maps", "travian maps\travian maps.csproj", "{DEDEF6DD-1881-43E7-909D-0B89DF47F338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEDEF6DD-1881-43E7-909D-0B89DF47F338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDEF6DD-1881-43E7-909D-0B89DF47F338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDEF6DD-1881-43E7-909D-0B89DF47F338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDEF6DD-1881-43E7-909D-0B89DF47F338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A738B86-13D4-4B30-A0C4-CF83F4F5F56B}
+	EndGlobalSection
+EndGlobal

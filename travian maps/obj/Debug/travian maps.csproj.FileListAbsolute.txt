@@ -1,0 +1,27 @@
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\travian maps.exe.config
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\travian maps.exe
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\travian maps.pdb
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian maps.csprojAssemblyReference.cache
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian_maps.MainForm.resources
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian_maps.serverSettings.resources
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian_maps.Properties.Resources.resources
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian maps.csproj.GenerateResource.cache
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian maps.csproj.CoreCompileInputs.cache
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian maps.exe
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian maps.pdb
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian_maps.dbSettings.resources
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\MySql.Data.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\Google.Protobuf.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\Zstandard.Net.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\BouncyCastle.Crypto.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\Ubiety.Dns.Core.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\Renci.SshNet.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\System.Buffers.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\K4os.Compression.LZ4.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\K4os.Hash.xxHash.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\System.Memory.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\bin\Debug\MySql.Data.xml
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian maps.exe.config
+D:\Tiedostot\Ohjelmoinnit\travian maps\travian maps\obj\Debug\travian maps.csproj.CopyComplete
