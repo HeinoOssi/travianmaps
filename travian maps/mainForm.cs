@@ -33,6 +33,9 @@ namespace travian_maps
 
         private void MainForm_Load(object sender, EventArgs e)
         {
+            this.Width = 940;
+            this.Height = 700;
+
             // Update interval in hours
             int interval;
             if (Properties.Settings.Default.db_update_interval_hours == 0)
@@ -99,7 +102,7 @@ namespace travian_maps
                     }
                     else
                     {
-                        lblStatus.Text = "Status: Inserted to database";
+                        lblStatus.Text = "Status: Updated";
                     }
                 }
             }
@@ -107,6 +110,10 @@ namespace travian_maps
             this.Enabled = true;
         }
 
-
+        private void btnTEST_Click(object sender, EventArgs e)
+        {
+            // TODO: remove when not needed
+            dbconn.SelectPlayer(437, "x_world");
+        }
     }
 }

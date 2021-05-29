@@ -162,5 +162,31 @@ namespace travian_maps
             }
             return false;
         }
+
+        // Select uid items
+        public bool SelectPlayer(int userid, string tablename)
+        {
+            string query = "SELECT * FROM " + tablename + " WHERE uid=" + userid;
+            try
+            {
+                conn.Open();
+                MySqlCommand cmd = new MySqlCommand(query, conn);
+                MySqlDataReader rdr = cmd.ExecuteReader();
+
+                while (rdr.Read())
+                {
+                    // TODO
+                    Console.WriteLine("Field number:" + rdr[0] + ", X" + rdr[1] + ", Y" +rdr[2]);
+
+                }
+                rdr.Close();
+            } catch (MySqlException e)
+            {
+                MessageBox.Show(e.ToString());
+                
+            }
+            conn.Close();
+            return false;
+        }
     }
 }
